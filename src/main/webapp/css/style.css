@@ -1,0 +1,27 @@
+a
+{
+    font-weight: bold;
+}
+
+a:hover
+{
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+}
+
+.col-3
+{
+    border-width: 5px 5px 5px 5px;
+    border-color: #007bff;
+}
+
+.show_user
+{
+    color: white;
+    font-size: 10px;
+    margin-right: 20px;
+}
+
+
+
